@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+data/history.json
+.dist-info/
+.env
+.idea/
+.vscode/
+
+# Editor/OS files
+*.swp
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
